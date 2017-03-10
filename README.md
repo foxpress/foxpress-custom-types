@@ -1,0 +1,2 @@
+# foxpress-custom-types
+plugin
